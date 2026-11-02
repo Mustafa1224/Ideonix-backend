@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
+
+# Database
+ideonix.db
+
+# Environment variables
+.env
