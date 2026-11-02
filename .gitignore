@@ -1,0 +1,2 @@
+# Exclude only the private environment file
+.env
